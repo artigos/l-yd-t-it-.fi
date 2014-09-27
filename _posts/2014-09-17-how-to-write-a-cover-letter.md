@@ -9,9 +9,11 @@ Aivan kuten CV, hyvä työhakemus on välttämätön, kun olet etsimässä työt
 
 Liittyen CV:hen, työhakemuksen ei pitäisi jättää epäselvyyksiä, miksi yrityksen pitäisi palkata juuri sinut. Kaiken, mitä se sisältää pitäisi kannustaa rekrytoijaa antamaan CV:llesi sen huomion, jonka se ansaitsee.
 
-Etkö ole varma, mistä aloittaa? Tässä askel-askeleelta-ohje, jotta hakemuksen kirjoittaminen olisi helpompaa.##Tutkimus
+Etkö ole varma, mistä aloittaa? Tässä askel-askeleelta-ohje, jotta hakemuksen kirjoittaminen olisi helpompaa.
 
- Emme voi korostaa tätä liikaa. Ennen kuin istuudut kirjoittamaan työhakemustasi, tee hieman tutkimusta yrityksestä ja työstä, jota olet hakemassa. Asiat, jotka sinun tulisi tietää, ovat mitä yritys tekee, sen kilpailijat ja miten se on sijoittunut markkinoilla.
+##Tutkimus
+
+Emme voi korostaa tätä liikaa. Ennen kuin istuudut kirjoittamaan työhakemustasi, tee hieman tutkimusta yrityksestä ja työstä, jota olet hakemassa. Asiat, jotka sinun tulisi tietää, ovat mitä yritys tekee, sen kilpailijat ja miten se on sijoittunut markkinoilla.
 
 Tämän tutkimuksen teko ei ainoastaan helpota sinua räätälöimään hakemuksesi ja CV:si yrityksen tyyliä vastaavaksi vaan se myös osoittaa, että sinulla on aitoa kiinnostusta yrityksessä työskentelyä kohtaan.
 
@@ -25,7 +27,7 @@ Jos tunnet henkilön, kirjoita ”Hyvä herra Smith / Hyvä rouva Jones”, ja j
 
 ###Hakemuksen aloitus
 
- Ensimmäisen kappaleen pitäisi olla lyhyt ja osoittaa, miksi kirjoitit tämän hakemuksen.
+Ensimmäisen kappaleen pitäisi olla lyhyt ja osoittaa, miksi kirjoitit tämän hakemuksen.
 
 Esimerkki:
 'Haluaisin, että minua harkitaan ”IT-Managerin” toimeen.
