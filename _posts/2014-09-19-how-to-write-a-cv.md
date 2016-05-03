@@ -3,7 +3,7 @@ layout: default
 title: Miten kirjoittaa CV
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Töitä etsiessä hyvä CV on erittäin tärkeä, etenkin kun suuria määriä ehdokkaita hakee samaa työtä, joten mitä sen tulee sisältää?
 
@@ -11,7 +11,7 @@ Valmiita mallia ei ole, ja jokainen ala voi vaatia enemmän huomiota tiettyihin 
 
 Etkö ole varma, mistä aloittaisit? Tässä muutamia perussääntöjä joita kannattaa noudattaa kirjoittaessasi CV:si.
 
-##Minkälaisia tietoja olisi parasta sisältää kun kirjoitan CV:ni?
+## Minkälaisia tietoja olisi parasta sisältää kun kirjoitan CV:ni?
 
 Henkilökohtaiset tiedot: Se voi kuulostaa itsestään selvältä, mutta yllättyisit varmaan, jos tietäisit kuinka monta ihmistä unohtaa oman nimensä, sähköpostiosoitteensa, puhelinnumeronsa ja osoitteensa. Varmista, että nämä ovat selvästi merkittyjä yläreunaan.
 
@@ -27,7 +27,7 @@ Harrastukset ja Kiinnostukset: Sisällytä vain taidot ja ryhmätyöt jos ne kos
 
 Ylimääräistä tietoa, kuten työpaikan vaihdon syyt, ja työuran taukojen syyt, täytyisi myös lisätä.
 
-##Kuinka esittää CV:si
+## Kuinka esittää CV:si
 
 Muista, että CV:si kuvastaa sinua, joten on tärkeä, että se on kirjoitettu hyvin ja näyttää ammattimaiselta.
 
