@@ -19,7 +19,7 @@ Jos työ kuulostaa liian hyvältä ollakseen totta, se todennäköisesti on sit�
 
 ## Aseta itsesi esille
 
-Yritysmaailman verkostoitumissivustot, kuten [LinkedIn](https://www.linkedin.com) ja [TE-palvelut](http://www.te-palvelut.fi/te/en/), ovat hyvin suosittuja niiden työnhakijoiden keskuudessa, jotka haluavat esitellä osaamistaan. Nämä sivustot antavat mahdollisuuden kehittää suhteita, jotka voivat johtaa sellaisen työpaikan löytämiseen, jota ei avoimesti mainosteta. Pieni itsensä mainostaminen voi viedä pitkälle. Etsi, kuinka pääset käsiksi piilossa oleviin työpaikkoihin verkostoitumisen aloittelijaoppaastamme.
+Yritysmaailman verkostoitumissivustot, kuten [LinkedIn](//www.linkedin.com) ja [TE-palvelut](//www.te-palvelut.fi/te/en/), ovat hyvin suosittuja niiden työnhakijoiden keskuudessa, jotka haluavat esitellä osaamistaan. Nämä sivustot antavat mahdollisuuden kehittää suhteita, jotka voivat johtaa sellaisen työpaikan löytämiseen, jota ei avoimesti mainosteta. Pieni itsensä mainostaminen voi viedä pitkälle. Etsi, kuinka pääset käsiksi piilossa oleviin työpaikkoihin verkostoitumisen aloittelijaoppaastamme.
 
 ## Älä ryhdy ”spämmäämään”
 
